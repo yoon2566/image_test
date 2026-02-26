@@ -1,0 +1,12 @@
+다음 깃허브 이미지 주소로 도계미디어 센터 홈페이지 만들어줘
+
+- https://raw.githubusercontent.com/yoon2566/image_test/main/Dogye_Media_Center/01_Dogye_Media_Center_news1.jpg
+- https://raw.githubusercontent.com/yoon2566/image_test/main/Dogye_Media_Center/04_Dogye_Media_Center_news2.jpg
+- https://raw.githubusercontent.com/yoon2566/image_test/main/Dogye_Media_Center/07_Dogye_Media_Center_news3.jpg
+- https://raw.githubusercontent.com/yoon2566/image_test/main/Dogye_Media_Center/10_Dogye_Media_Center_news4.jpg
+- https://raw.githubusercontent.com/yoon2566/image_test/main/Dogye_Media_Center/02_Dogye_Media_Center_blog1.jpg
+- https://raw.githubusercontent.com/yoon2566/image_test/main/Dogye_Media_Center/03_Dogye_Media_Center_blog2.jpg
+- https://raw.githubusercontent.com/yoon2566/image_test/main/Dogye_Media_Center/05_Dogye_Media_Center_blog3.jpg
+- https://raw.githubusercontent.com/yoon2566/image_test/main/Dogye_Media_Center/06_Dogye_Media_Center_blog4.png
+- https://raw.githubusercontent.com/yoon2566/image_test/main/Dogye_Media_Center/08_Dogye_Media_Center_blog5.jpg
+- https://raw.githubusercontent.com/yoon2566/image_test/main/Dogye_Media_Center/09_Dogye_Media_Center_blog6.jpg
